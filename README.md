@@ -36,4 +36,5 @@ On converting into binary format, the above example is `0000 0100 0010 0000 1100
 We can also re-arrange the binary form into 6-bits sequence,`000001 000010 000011 000100`.
 And the 6-bits sequence means `1 2 3 4` in 10-radix manner.
 Afterthat, it can be converted into string format with the modified encoding table.
+
 Finally we will obtain `abcd`.
